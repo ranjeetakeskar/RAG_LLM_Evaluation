@@ -1,6 +1,6 @@
 # RAG_LLM_Evaluation
 
-This project is part of the Udemy course: RAG LLM Evaluation AI Test.
+This project is part of the Udemy course: [RAG LLM Evaluation AI Test](https://www.udemy.com/course/rag-llm-evaluation-ai-test).
 Focuses on evaluating various aspects of Language Learning Models (LLMs) using different metrics.
 
 
