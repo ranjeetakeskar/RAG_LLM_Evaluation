@@ -1,6 +1,6 @@
 # RAG_LLM_Evaluation
 
-This project is part of the Udemy course: [RAG LLM Evaluation AI Test](https://www.udemy.com/course/rag-llm-evaluation-ai-test).
+This project is part of the Udemy course: [RAG LLM Evaluation AI Test](https://www.udemy.com/course/rag-llm-evaluation-ai-test) 
 Focuses on evaluating various aspects of Language Learning Models (LLMs) using different metrics.
 
 
@@ -8,3 +8,5 @@ Focuses on evaluating various aspects of Language Learning Models (LLMs) using d
 Create a .env file and add the following environment variables:
 
 OPENAI_API_KEY=your_openai_api_key
+<!-- RAGAS_API_TOKEN= your_ragas_api_key-->
+
