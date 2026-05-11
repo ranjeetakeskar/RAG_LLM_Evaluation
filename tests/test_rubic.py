@@ -5,11 +5,11 @@ from ragas.metrics._domain_specific_rubrics import RubricsScore
 @pytest.fixture
 def get_data():
     sample = SingleTurnSample(
-        user_input="Where is Effiel Tower located?",
-        response="Effiel Tower is located in Europe and it is part of France",
-        reference="Effiel Tower is located in paris"
-    )
+        user_input="Where is the Eiffel Tower located?",
+        response="The Eiffel Tower is located in Paris.",
+        reference="The Eiffel Tower is located in Paris.",
 
+    )
     return sample
 
 
